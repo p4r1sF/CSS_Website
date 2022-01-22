@@ -79,3 +79,4 @@ Current notes Home page (Luis, we can talk about them when we meet too)
 	- Margins across each the sections is uneven (left and right)
     - The John Jay pic in the footer can be adjusted to look better
     - The footer seems to have some white space after it but it could just be something that's set right now that I dont know about 
+test
