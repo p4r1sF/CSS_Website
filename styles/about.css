@@ -115,52 +115,12 @@ header {
     z-index: 1;
 }
 
-/* header paddding  */
-/* @media (max-width: 1500px) {
-    .brand-title {
-        padding-left: 12%;
-    }
+.rounded {
+    border-bottom: 1px  black;
+	/* box-shadow: 0 20px 20px -20px #333; */
+    box-shadow: 0 2px 2px #333;
 }
-@media (max-width: 1450px) {
-    .brand-title {
-        padding-left: 11%;
-    }
-}
-@media (max-width: 1400px) {
-    .brand-title {
-        padding-left: 10%;
-    }
-}
-@media (max-width: 1350px) {
-    .brand-title {
-        padding-left: 9%;
-    }
-}
-@media (max-width: 1300px) {
-    .brand-title {
-        padding-left: 8%;
-    }
-}
-@media (max-width: 1250px) {
-    .brand-title {
-        padding-left: 7%;
-    }
-}
-@media (max-width: 1200px) {
-    .brand-title {
-        padding-left: 6%;
-    }
-}
-@media (max-width: 1150px) {
-    .brand-title {
-        padding-left: 5%;
-    }
-}
-@media (max-width: 1100px) {
-    .brand-title {
-        padding-left: 4%;
-    }
-} */
+
 /*  */
 
 /* Top Imgage Section */
@@ -169,7 +129,8 @@ header {
     background: url("../images/earth.png") center center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    border-radius: 10px;
+    box-shadow:  0px 0px 5px black;
     
     /* position: absolute; */
     /* background-size: contain; */
@@ -283,6 +244,7 @@ header {
     align-items: center;
     padding-top: 2%;
     padding-bottom: 2%;
+    align-items: center;
 }
   
 @media (min-width: 56.25em){
@@ -465,7 +427,7 @@ header {
 .leetcode-flex-container {
     padding-left: 5%; 
     padding-right: 5%; 
-    background-color: rgb(238,43,42, .15);
+    background-color: rgb(238,43,42, 0.15);
     align-items: center;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -552,7 +514,7 @@ header {
 /* end of leetcode section */
 
 
-/* collaborate section */
+/* discussion section */
 
 .discussion-flex-container {
     padding-left: 5%; 
@@ -606,7 +568,7 @@ header {
     border: 0;
   }
 
-  /* collaborate button styling */
+  /* discussion button styling */
 
   .discussion-button:not([disabled]):focus {
     box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
@@ -624,7 +586,7 @@ header {
   transform: scale(1.05) translateY(.125rem);
 }
 
-  /* end of collaborate button styling  */
+  /* end of discussion button styling  */
   
   .discussion-img-section {
     flex: .4 0 300px;
@@ -643,7 +605,7 @@ header {
     box-shadow:  0px 0px 5px black;
   }
 
-/* end of collaborate section */
+/* end of discussion section */
 
 /* Meet the Team Section */
 
