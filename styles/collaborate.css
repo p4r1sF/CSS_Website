@@ -191,7 +191,7 @@ h2 {
     height: 45px;
     color: white;
     font-size: 1.2rem;
-    width: 25%;
+    width: 200px;
     background: #1E80F0;
     border: #1E80F0;
     border-radius: 15px;
@@ -234,9 +234,8 @@ h2 {
     cursor: pointer;
     overflow: hidden;
     filter: drop-shadow(0px 3px 2px rgba(0, 0, 0, 0.54));
-    width: 120%;
+    width: 280px;
     margin: 50px 0 0 0;
-    padding: 0 20px;
 }
 
 /* footer */
@@ -282,7 +281,7 @@ h2 {
 
 
 /* Medium screen*/
-@media(max-width: 900px){
+@media(max-width: 910px){
     .apply-to-positions-container {
         display: block;
     }
@@ -296,10 +295,6 @@ h2 {
         display: block;
     }
 
-    .share-project-ideas-text > a > button {
-        width: 30%;
-    }
-
     .club-suggestions-container {
         flex-direction: column;
     }
@@ -307,9 +302,6 @@ h2 {
     .club-suggestions-text {
         width: 70%;
         margin: auto;
-    }
-    .club-suggestions-container > a > button{
-        width: 50%;
     }
 }
 
@@ -330,11 +322,11 @@ h2 {
         width: 90%;
     }
     .share-project-ideas-text > a > button {
-        width: 50%;
+        width: 180px;
     }
 
     .club-suggestions-container > a > button{
-        width: 68%;
+        width: 235px;
     }
 }
 
