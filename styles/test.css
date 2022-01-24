@@ -215,91 +215,154 @@ html {
 /* resources section */
 
 .resources-flex-container {
-    padding-left: 5%; 
-    padding-right: 5%; 
-    background-color: rgb(238,43,42, .15);
-    align-items: center;
-    padding-top: 2%;
-    padding-bottom: 2%;
+  padding-left: 5%; 
+  padding-right: 5%; 
+  background-color: rgb(238,43,42, .15);
+  align-items: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
-  
+
 @media (min-width: 56.25em){
-    .resources-flex-container {
-        display: flex;  
-    }
-}
-  
-  .resources-main-content {
-    flex: 1;  
-    padding: 20px;
-    border-radius: 12px;
+  .resources-flex-container {
+      display: flex;  
   }
-
-  .resources-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
-  }
-
-  .resources-section-description {
-    font-size: 1.125rem;
-  }
-
-  .resources-button-section {
-    text-align: center;
-  }
-
-  .resources-button {
-    color:white;
-    width: 270px;
-    font-weight: 500;
-    background-color: #CE4A4A;
-    border-radius: 50px;
-    font-size: 1.75rem;
-    text-align: center;
-    text-decoration: none;
-    padding-top: .7%;
-    padding-bottom: .7%;
-    padding-right: 5%;
-    padding-left: 5%;
-    border: 0;
-    /* line-height: 50px; */
-  }
-
-/* events button styling */
-
-.resources-button:not([disabled]):focus {
-    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
-    }
-    
-    .resources-button:not([disabled]):hover {
-    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
-    }
-
-.resources-button:not(:disabled):hover {
-    transform: scale(1.05);
 }
 
-.resources-button:not(:disabled):hover:active {
-    transform: scale(1.05) translateY(.125rem);
+@media only screen and (max-width: 900px) {
+  .resources-flex-container {
+      display: none;
+  }
 }
 
-    /* end of events button styling  */
-  
-  .resources-img-section {
-    flex: .75 0 300px;
-    padding: 20px;
-    border-radius: 12px;
-  }
+.resources-main-content {
+  flex: 1;  
+  padding: 20px;
+  border-radius: 12px;
+}
 
-  .resources-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%; 
-    height: 80%;
-    border-radius: 10px;
-    box-shadow:  0px 0px 5px black;
+.resources-section-title {
+  font-size: 30px;
+  font-weight: 600; text-align: center;
+}
+
+.resources-section-description {
+  font-size: 1.125rem;
+}
+
+.resources-button-section {
+  text-align: center;
+}
+
+.resources-button {
+  color:white;
+  width: 270px;
+  font-weight: 500;
+  background-color: #CE4A4A;
+  border-radius: 50px;
+  font-size: 1.75rem;
+  text-align: center;
+  text-decoration: none;
+  padding-top: .7%;
+  padding-bottom: .7%;
+  padding-right: 5%;
+  padding-left: 5%;
+  border: 0;
+}
+
+.resources-img-section {
+  flex: .75 0 300px;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.resources-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%; 
+  height: 80%;
+  border-radius: 10px;
+  box-shadow:  0px 0px 5px black;
+}
+
+
+/*  */
+/*  */
+/*  */
+.resources-flex-container2 {
+  padding-left: 5%; 
+  padding-right: 5%; 
+  background-color: rgb(238,43,42, .15);
+  align-items: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+@media (min-width: 56.25em){
+  .resources-flex-container2 {
+      display: flex;  
   }
+}
+
+@media only screen and (min-width: 900px) {
+  .resources-flex-container2 {
+      display: none;
+  }
+}
+
+.resources-main-content2 {
+  flex: 1;  
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.resources-section-title2 {
+  font-size: 30px;
+  font-weight: 600; text-align: center;
+}
+
+.resources-section-description2 {
+  font-size: 1.125rem;
+}
+
+.resources-button-section2 {
+  text-align: center;
+}
+
+.resources-button2 {
+  color:white;
+  width: 270px;
+  font-weight: 500;
+  background-color: #CE4A4A;
+  border-radius: 50px;
+  font-size: 1.75rem;
+  text-align: center;
+  text-decoration: none;
+  padding-top: .7%;
+  padding-bottom: .7%;
+  padding-right: 5%;
+  padding-left: 5%;
+  border: 0;
+}
+
+.resources-img-section2 {
+  flex: .75 0 300px;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.resources-img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%; 
+  height: 80%;
+  border-radius: 10px;
+  box-shadow:  0px 0px 5px black;
+}
+
+
 
 /* end of resources section */
 
