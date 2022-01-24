@@ -366,9 +366,9 @@ header {
 #table {
     padding: 10px;
     border: 1px solid #CFCFCF;
-    box-shadow: 2px 4px #CFCFCF;
-    margin-left: clamp(90px, 100px, 300px);
-    margin-right: clamp(90px, 100px, 300px);
+    box-shadow: 1px 1px #CFCFCF;
+    margin-left: clamp(30px, 15%, 500px);
+    margin-right: clamp(30px, 15%, 500px);
 }
 
 .flex-container{
