@@ -15,6 +15,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif; font-weight: 300;
 }
 
 .navbar {
@@ -141,8 +142,9 @@ html {
 
 /* welcome description */
 .welcome-section-title {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600;
+
 }
 
 .welcome-flex-container {
@@ -165,6 +167,7 @@ html {
 .welcome-section-description {
     display: flex;
     flex-wrap: wrap;
+    font-size: 24px;
 }
 
 .welcome-buttons-section {
@@ -254,13 +257,13 @@ html {
   }
 
   .about-section-title {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600; 
     text-align: center;
   }
 
   .about-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .about-button-section {
@@ -347,12 +350,13 @@ html {
   }
 
   .events-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
 
   .events-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .events-button-section {
@@ -438,12 +442,13 @@ html {
   }
 
   .resources-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
 
   .resources-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .resources-button-section {
@@ -530,12 +535,13 @@ html {
   }
 
   .collaborate-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
 
   .collaborate-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .collaborate-button-section {

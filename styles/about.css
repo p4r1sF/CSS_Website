@@ -19,6 +19,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif; font-weight: 300;
 }
 
 .navbar {
@@ -213,7 +214,7 @@ header {
 }
 
 #who-we-are{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600; 
     text-align: center;
 }
@@ -225,7 +226,7 @@ header {
     margin-top: 5%;
     text-align: left;
     line-height: 2.0;
-    font-size: 1.125rem;
+    font-size: 24px;
 }
 
 @media (max-width: 56.25em) {
@@ -262,13 +263,13 @@ header {
   }
 
   .languages-section-title {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600; 
     text-align: center;
   }
 
   .languages-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .languages-button-section {
@@ -361,12 +362,13 @@ header {
   }
   
   .resources-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
   
   .resources-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
   
   .resources-button-section {
@@ -437,12 +439,13 @@ header {
   }
   
   .resources-section-title2 {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
   
   .resources-section-description2 {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
   
   .resources-button-section2 {
@@ -507,12 +510,13 @@ header {
   }
 
   .leetcode-section-title {
-    font-size: 30px;
-    font-weight: 600; text-align: center;
+    font-size: 40px;
+    font-weight: 600; 
+    text-align: center;
   }
 
   .leetcode-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
   }
 
   .leetcode-button-section {
@@ -605,7 +609,7 @@ header {
   }
 
   .discussion-section-description {
-    font-size: 1.125rem;
+    font-size: 24px;
     text-align: left;
     /* background-color: blue; */
   }
@@ -685,7 +689,7 @@ section {
 }
 
 .team-heading {
-    font-size: 2.25rem;
+    font-size: 45px;
     font-weight: 700;
     font-family: Raleway,sans-serif;
     text-align: center;
@@ -697,7 +701,7 @@ section {
 }
 
 .team-sub-heading {
-    font-size: 1.7rem;
+    font-size: 40px;
     text-align: center;
 }
 
