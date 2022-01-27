@@ -774,6 +774,7 @@ section {
     padding: 2rem;
     height: 28.5rem;
     max-height: 28.5rem;
+    position: relative;
 }
 
 @media screen and (min-width: 1024px) {
@@ -819,6 +820,13 @@ section {
 .team-member-description {
     font-family: Nunito,sans-serif;
     font-size: 1.125rem;
+}
+
+.team-member-social {
+  position: absolute; 
+  bottom: 8px; 
+  left: 9.2%; 
+  font-size: 18px;
 }
 /* end of meet the team section */
 
