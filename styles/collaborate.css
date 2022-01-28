@@ -167,22 +167,26 @@ h2 {
 .share-project-ideas-section {
     padding: 20px 20px 40px;
     background: rgba(99, 148, 76, 0.15);
+    text-align: center;
     margin: 80px 0 0;
 }
 
 .share-project-ideas-container {
-    margin: 10px;
-    padding: 4%;
     display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.share-project-ideas-text {
+    flex: 2;
 }
 
 .share-project-ideas-text > p {
-    width: 60%;
+    font-size: 24px;
+    text-align: left;
+    width: 80%;
     margin: auto;
-    padding: 35px 0 20px;
-    text-align: justify;
-    line-height: 1.5;
-    font-size: 1.2rem;
+    padding: 20px;
 }
 
 .share-project-ideas-text > a > button {
@@ -197,8 +201,11 @@ h2 {
     filter: drop-shadow(0px 3px 2px rgba(0, 0, 0, 0.54));
 }
 
+.share-project-ideas-img-box {
+    flex: 1;
+}
 
-.project-ideas-img {
+.share-project-ideas-img-box > img{
     width: 255px;
 }
 
@@ -206,23 +213,32 @@ h2 {
 .club-suggestions-section {
     padding: 20px 20px 40px;
     background-color: rgb(30, 128, 240, .15);
+    text-align: center;
 }
 
 .club-suggestions-container {
-    padding: 4%;
     display: flex;
+    align-items: center;
+    padding: 3%;
+    align-items: center;
 }
 
 .club-suggestions-text {
-    width: 40%;
-    margin: 0 145px 0 20px;
-    padding: 35px 0 20px;
-    text-align: justify;
-    line-height: 1.5;
-    font-size: 1.2rem;
+    flex: 2;
+}
+.club-suggestions-text > p {
+    font-size: 24px;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
 }
 
-.club-suggestions-container > a > button {
+.suggestions-button {
+    flex: 1;
+}
+
+.suggestions-button > a > button {
     height: 50px;
     background: #40A33F;
     color: white;
