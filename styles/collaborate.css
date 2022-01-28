@@ -114,7 +114,6 @@ header {
 
 .rounded {
     border-bottom: 1px  black;
-	/* box-shadow: 0 20px 20px -20px #333; */
     box-shadow: 0 2px 2px #333;
 }
 /* end of header  */
@@ -131,36 +130,45 @@ h2 {
 }
 
 /* Join Team Section */
+.join-team-section {
+    padding: 20px 20px 40px;
+    text-align: center;
+}
+
 .apply-to-positions-container {
-    padding: 3%;
     display: flex;
+    align-items: center;
+    padding: 3% 5%;
 }
 
 .positions-list {
-    font-size: 1.2rem;
+    flex: 1;
+}
+
+.positions-list > ul { 
+    font-size: 24px;
     font-weight: bold;
     list-style: none;
-    line-height: 2;
+    line-height: 2.3;
     text-align: left;
-    /* margin: 0 250px 0 100px; */
-    width: 50%;
-    margin: 0 100px 0 100px;
 }
 
 
-.apply-to-positions-container > a > button {
-    height: 50px;
+.apply-to-positions-button {
+    flex: 1;
+}
+
+.apply-to-positions-button > a > button {
+    height: 70px;
     background: #40A33F;
     color: white;
     border: #40A33F;
     border-radius: 20px;
-    font-size: 1.8rem;
+    font-size: 40px;
     font-weight: bold;
     cursor: pointer;
     filter: drop-shadow(0px 3px 2px rgba(0, 0, 0, 0.54));
-    width: 130%;
-    margin: 100px 0 0 0;
-    padding: 0 20px;
+    width: 45%;
 }
 
 /* Share Projec Ideas Section */
@@ -168,7 +176,6 @@ h2 {
     padding: 20px 20px 40px;
     background: rgba(99, 148, 76, 0.15);
     text-align: center;
-    margin: 80px 0 0;
 }
 
 .share-project-ideas-container {
@@ -218,9 +225,7 @@ h2 {
 
 .club-suggestions-container {
     display: flex;
-    align-items: center;
-    padding: 3%;
-    align-items: center;
+    padding: 5% 3%;
 }
 
 .club-suggestions-text {
@@ -308,61 +313,40 @@ h2 {
 /* Media queries */
 
 /* Big Screens */
-@media (min-width: 1100px){
-
-    .club-suggestions-text {
-        margin: 0 215px 0 80px;
-    }
-}
-
 
 /* Medium screen*/
 @media(max-width: 910px){
     .apply-to-positions-container {
         display: block;
     }
-    .apply-to-positions-container > a > button {
+    .apply-to-positions-button > a > button {
         width: 50%;
-        margin: 60px 0 0;
-
     }
 
-    .share-project-ideas-container {
-        display: block;
-    }
-
-    .club-suggestions-container {
+    .club-suggestions-container, .share-project-ideas-container {
         flex-direction: column;
-    }
-
-    .club-suggestions-text {
-        width: 70%;
-        margin: auto;
     }
 }
 
 /* Small Screens */
 @media(max-width: 515px){
     
-    .positions-list {
-        width: auto;
-        margin: auto;
+    .positions-list > ul{
+        font-size: 20px;
+        margin: 40px 0;
     }
 
     .share-project-ideas-text > p {
-        width: 90%;
-        /* margin: auto; */
+        width: 100%;
+        font-size: 20px;
     }
     
-    .club-suggestions-text {
-        width: 90%;
+    .club-suggestions-text > p{
+        width: 100%;
+        font-size: 20px;
     }
     .share-project-ideas-text > a > button {
-        width: 180px;
-    }
-
-    .club-suggestions-container > a > button{
-        width: 235px;
+        width: 55%
     }
 }
 
