@@ -28,3 +28,27 @@ $(document).ready(function(){
         $(".resources").slideToggle();
     });
 });
+
+$(document).ready(function(){
+    $(".arrow2").click(function(){
+        $(".resources2").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $(".arrow3").click(function(){
+        $(".resources3").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $(".arrow4").click(function(){
+        $(".resources4").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $(".arrow5").click(function(){
+        $(".resources5").slideToggle();
+    });
+});

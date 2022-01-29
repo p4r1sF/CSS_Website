@@ -19,6 +19,7 @@ img {
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif; font-weight: 300;
 }
 
 .navbar {
@@ -121,53 +122,6 @@ header {
     box-shadow: 0 2px 2px #333;
 }
 
-/* header paddding  */
-/* @media (max-width: 1500px) {
-    .brand-title {
-        padding-left: 12%;
-    }
-}
-@media (max-width: 1450px) {
-    .brand-title {
-        padding-left: 11%;
-    }
-}
-@media (max-width: 1400px) {
-    .brand-title {
-        padding-left: 10%;
-    }
-}
-@media (max-width: 1350px) {
-    .brand-title {
-        padding-left: 9%;
-    }
-}
-@media (max-width: 1300px) {
-    .brand-title {
-        padding-left: 8%;
-    }
-}
-@media (max-width: 1250px) {
-    .brand-title {
-        padding-left: 7%;
-    }
-}
-@media (max-width: 1200px) {
-    .brand-title {
-        padding-left: 6%;
-    }
-}
-@media (max-width: 1150px) {
-    .brand-title {
-        padding-left: 5%;
-    }
-}
-@media (max-width: 1100px) {
-    .brand-title {
-        padding-left: 4%;
-    }
-} */
-/*  */
 
 /* footer */
 .column {
@@ -199,12 +153,12 @@ header {
 }
 
 #footer {
-    position: absolute;
+    /* position: absolute;
     bottom: 0;
     width: 100%;
     height: 2.5rem;  
-    margin-top: -50px;
-    /* flex-shrink: 0; */
+    margin-top: -50px; */
+    flex-shrink: 0;
 }
 
 .footer-class {
@@ -212,103 +166,9 @@ header {
     padding-right: 5%;
 }
 
-/* footer padding */
-/* @media (max-width: 1500px) {
-    .footer-class {
-        padding-left: 12%;
-        padding-right: 12%;
-    }
-}
-@media (max-width: 1450px) {
-    .footer-class {
-        padding-left: 11%;
-        padding-right: 11%;
-    }
-}
-@media (max-width: 1400px) {
-    .footer-class {
-        padding-left: 10%;
-        padding-right: 10%;
-    }
-}
-@media (max-width: 1350px) {
-    .footer-class {
-        padding-left: 9%;
-        padding-right: 9%;
-    }
-}
-@media (max-width: 1300px) {
-    .footer-class {
-        padding-left: 8%;
-        padding-right: 8%;
-    }
-}
-@media (max-width: 1250px) {
-    .footer-class {
-        padding-left: 7%;
-        padding-right: 7%;
-    }
-}
-@media (max-width: 1200px) {
-    .footer-class {
-        padding-left: 6%;
-        padding-right: 6%;
-    }
-}
-@media (max-width: 1150px) {
-    .footer-class {
-        padding-left: 5%;
-        padding-right: 5%;
-    }
-}
-@media (max-width: 1100px) {
-    .footer-class {
-        padding-left: 4%;
-        padding-right: 4%;
-    }
-} */
-/*  */
-
 .middleP {
     font-size: 10px;
 }
-
-/* footer images */
-/* @media (max-width: 950px) {
-    .column img {
-        width: 45px;
-        height: 45px;
-    }
-}
-
-@media (max-width: 900px) {
-    .column img {
-        width: 40px;
-        height: 40px;
-    }
-} */
-
-/* @media (max-width: 850px) {
-    .column img {
-        width: 35px;
-        height: 35px;
-    }
-}
-
-@media (max-width: 800px) {
-    .column img {
-        width: 30px;
-        height: 30px;
-    }
-} */
-/*  */
-
-/* footer text font size */
-/* @media (max-width: 900px) {
-    .middleP {
-        font-size: 8px;
-    }
-} */
 
 @media (max-width: 800px) {
     .middleP {
@@ -327,18 +187,70 @@ header {
         font-size: 4px;
     }
 }
+
+/* footer2 */
+
+.container {
+    background-color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  
+  .column-left{ 
+    float: left; 
+    /* width: 33.333%;  */
+    width: 20%;
+    /* background-color: red; */
+    /* display: block; */
+  
+  }
+  
+  .column-left img {
+    width: 40px;
+    height: 50px;
+  }
+  
+  .column-center{ 
+    display: inline-block; 
+    /* width: 33.333%;  */
+    width: 60%;
+    text-align: center;
+  }
+  
+  .column-right img {
+    width: 50px;
+    height: 40px;
+    margin: auto;
+  }
+  
+  .column-right{ 
+    float: right; 
+    /* width: 33.333%;  */
+    width: 20%;
+    text-align: right;
+    /* background-color: red; */
+  }
+  
+  .middleP2 {
+    font-size: 10px;
+    /* background-color: blue; */
+  }
+  
+  @media (max-width: 800px) {
+    .middleP2 {
+      font-size: 7px;
+    }
+  }
+
 /*  */
 
 /* Icon image */
-/* @media (max-width: 700px) {
-    .fab {
-        font-size: 9px;
-    }
-
-    .fas {
-        font-size: 9px;
-    }
-} */
 
 @media (max-width: 400px) {
     .fab {
@@ -357,8 +269,10 @@ header {
     display: table;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-    height: 60%
+    /* width: 30%;
+    height: 40% */
+    width: 300px;
+    height: 300px;
 }
 /* End of Laptop Icon */
 
@@ -367,25 +281,90 @@ header {
     padding: 10px;
     border: 1px solid #CFCFCF;
     box-shadow: 1px 1px #CFCFCF;
-    margin-left: clamp(30px, 15%, 500px);
-    margin-right: clamp(30px, 15%, 500px);
+    margin-left: clamp(30px, 10%, 500px);
+    margin-right: clamp(30px, 10%, 500px);
+    /* padding-left: 10%; */
 }
 
-.flex-container{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
+#table2 {
+    padding: 10px;
+    border: 1px solid #CFCFCF;
+    box-shadow: 1px 1px #CFCFCF;
+    margin-left: clamp(30px, 10%, 500px);
+    margin-right: clamp(30px, 10%, 500px);
+    /* padding-left: 10%; */
+}
+
+.resource-title {
+    float: left; 
+    padding-left: clamp(10px, 20px, 30px); 
+    /* padding-left: 3%; */
+    font-size: 20px;
 }
 
 .arrow {
     width: 24px;
-    height: 20px; 
+    height: 20px;
+    float: right;
+}
+
+.arrow2 {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
+.arrow3 {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
+.arrow4 {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
+.arrow5 {
+    width: 24px;
+    height: 20px;
+    float: right;
 }
 
 .resources {
     padding-left: clamp(10px, 20px, 30px);
     padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
+}
+
+.resources2 {
+    padding-left: clamp(10px, 20px, 30px);
+    padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
+}
+
+.resources3 {
+    padding-left: clamp(10px, 20px, 30px);
+    padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
+}
+
+.resources4 {
+    padding-left: clamp(10px, 20px, 30px);
+    padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
+}
+
+.resources5 {
+    padding-left: clamp(10px, 20px, 30px);
+    padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
 }
 
 /* There is an issue with the up-down transform animation. */
