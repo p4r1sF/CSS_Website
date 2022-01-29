@@ -590,11 +590,11 @@ header {
     padding-bottom: 5%;
 }
   
-@media (min-width: 56.25em){
+/* @media (max-width: 56.25em){
     .discussion-flex-container {
-        display: flex;  
+        display: inline;  
     }
-}
+} */
   
   .discussion-main-content {
     flex: .5;  
