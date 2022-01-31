@@ -595,6 +595,12 @@ header {
         display: inline;  
     }
 } */
+
+@media (min-width: 56.25em){
+  .discussion-flex-container {
+      display: flex;  
+  }
+}
   
   .discussion-main-content {
     flex: .5;  
