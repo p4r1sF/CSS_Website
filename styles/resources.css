@@ -306,30 +306,42 @@ header {
     width: 24px;
     height: 20px;
     float: right;
+    transform: rotate(180deg);
 }
 
 .arrow2 {
     width: 24px;
     height: 20px;
     float: right;
+    transform: rotate(180deg);
 }
 
 .arrow3 {
     width: 24px;
     height: 20px;
     float: right;
+    transform: rotate(180deg);
 }
 
 .arrow4 {
     width: 24px;
     height: 20px;
     float: right;
+    transform: rotate(180deg);
 }
 
 .arrow5 {
     width: 24px;
     height: 20px;
     float: right;
+    transform: rotate(180deg);
+}
+
+.arrow6 {
+    width: 24px;
+    height: 20px;
+    float: right;
+    transform: rotate(180deg);
 }
 
 .resources {
@@ -339,11 +351,23 @@ header {
     padding-right: 3%; */
 }
 
+#turn6 img {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
 .resources2 {
     padding-left: clamp(10px, 20px, 30px);
     padding-right: clamp(10px, 20px, 30px);
     /* padding-left: 3%;
     padding-right: 3%; */
+}
+
+#turn5 img {
+    width: 24px;
+    height: 20px;
+    float: right;
 }
 
 .resources3 {
@@ -353,11 +377,23 @@ header {
     padding-right: 3%; */
 }
 
+#turn4 img {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
 .resources4 {
     padding-left: clamp(10px, 20px, 30px);
     padding-right: clamp(10px, 20px, 30px);
     /* padding-left: 3%;
     padding-right: 3%; */
+}
+
+#turn3 img {
+    width: 24px;
+    height: 20px;
+    float: right;
 }
 
 .resources5 {
@@ -367,7 +403,43 @@ header {
     padding-right: 3%; */
 }
 
+#turn2 img {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
+.resources6 {
+    padding-left: clamp(10px, 20px, 30px);
+    padding-right: clamp(10px, 20px, 30px);
+    /* padding-left: 3%;
+    padding-right: 3%; */
+}
+
 /* There is an issue with the up-down transform animation. */
 /* .arrow:target {
     transform: rotateZ(180deg);
+} */
+
+/* .rotateimg {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+} */
+/* button{
+  width:100px;
+  height:20px
+} */
+
+#turn img {
+    width: 24px;
+    height: 20px;
+    float: right;
+}
+
+/* #image img {
+    width: 24px;
+    height: 20px;
+    float: right;
 } */
