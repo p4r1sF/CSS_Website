@@ -13,12 +13,6 @@ Welcome to our Club's Official Website Repository. This website was finished thi
 
 [CSS Club Website](https://jjaycss.tech/)
 
-## Members Who Contributed to the Website
-- Leandro Gamarra (President)
-- Luis B. (Vice-President)
-- Annie H. (Assistant Treasurer)
-- Wing K.
-
 ## How to Contribute to New Club Website Features
 If you'd like to get new features that you believe will enhance our Club's website, then the best way for this to happen is through creating a pull request. The following steps will only be able to be done if you have connected your systems terminal to your Github account.
 ### Create a Pull Request:
@@ -56,7 +50,7 @@ If you'd like to get new features that you believe will enhance our Club's websi
 <img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> Computer Science Society Club <br>
 </p>
 
-### Club Socials
+## Club Socials
 - [CSS Club Website](https://jjaycss.tech/)
 - [Club Github](https://github.com/jjcss)
 - [Club Discord](https://discord.gg/fJZKErEnPa)
@@ -66,3 +60,10 @@ If you'd like to get new features that you believe will enhance our Club's websi
 - [Club Facebook](https://www.facebook.com/CSSJohnJay)
 - [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform)
 - [Club linktree](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fjjaycss&e=ATOSfCgT69PGdXXE-N6W4LYPCy3d8xTToAElzBm0BrXLhBQG0W5_Lt95y8SU2e3VZYnFmbpSshqcN40Lof-07w&s=1)
+
+## Contributors
+- Leandro Gamarra (President)
+- Luis B. (Vice-President)
+- Annie H. (Assistant Treasurer)
+- Wing K.
+- Yannelly M.
