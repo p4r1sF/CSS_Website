@@ -7,7 +7,7 @@
 
 # Computer Science Society Club
 
-Hello members,
+Hello everyone!
 
 Welcome to our Club's Official Website Repository. This website was finished this past January of 2022. We hope you all liked how it came out. However, we now have made this repository <b>public</b> so you all will be able to contribute to future features that you believe the Club should add to the website or if you have any concerns and suggestions. Learn more on how to get started below:
 
