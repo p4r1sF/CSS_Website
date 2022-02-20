@@ -47,9 +47,6 @@ If you'd like to get new features that you believe will enhance our Club's websi
     - Write a detailed description of what you would like to say. Be as specific as pos.
 
 
-<img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> Computer Science Society Club <br>
-</p>
-
 ## Club Socials
 - [CSS Club Website](https://jjaycss.tech/)
 - [Club Github](https://github.com/jjcss)
