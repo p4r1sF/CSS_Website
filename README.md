@@ -64,3 +64,5 @@ If you'd like to get new features that you believe will enhance our Club's websi
 - Annie H. (Assistant Treasurer)
 - Wing K.
 - Yannelly M.
+
+*Last edited by - Leandro Gamarra*
