@@ -44,7 +44,7 @@ If you'd like to get new features that you believe will enhance our Club's websi
     - Head over to "Discussions" in this repository
     - If you have any new ideas of features you would like to suggest to the Club executives, have any questions related to the Club Website, have any resources that you would like us to add to the website, have any errors on the website that you would like to bring light to, then click on the GREEN button "New Discussion".
     - Select the appropriate categroy for your discussion.
-    - Write a detailed description of what you would like to say. Be as specific as pos.
+    - Write a detailed description of what you would like to say. Be as specific as possible.
 
 
 ## Club Socials
