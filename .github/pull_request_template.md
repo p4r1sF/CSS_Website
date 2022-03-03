@@ -1,3 +1,4 @@
+# <img src="https://i.imgur.com/jmWW6Sc.png" alt="drawing" width="60"> Pull Requests Template
 ## What type of PR is this? (check all applicable)
 
 - [ ] ♻️ Refactor
