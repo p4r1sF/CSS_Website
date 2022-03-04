@@ -40,7 +40,7 @@ If you'd like to get new features that you believe will enhance our Club's websi
 5) Wait for a Club Executive to approve of your pull request. Any comments or concerns about your pull request will be inside of the pull request you created
 
 ### Open a New Discussion:
-If you have any new ideas, resources, features, questions related to the Club Website, or errors on the website that you would like to let us know, then click on the GREEN button "New Discussion".
+If you have any new ideas, resources, features, questions related to the club website, or errors on the website that you would like to let us know, then click on the GREEN button "New Discussion".
 
 1) Head over to "Discussions" in this repository
 2) Select the appropriate categroy for your discussion.
