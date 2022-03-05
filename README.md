@@ -11,8 +11,6 @@ Hello everyone!
 
 Welcome to our Club's Official Website Repository. This website was finished this past January of 2022. We hope you all liked how it came out. However, we now have made this repository <b>public</b> so you all will be able to contribute to future features that you believe the Club should add to the website or if you have any concerns and suggestions. Learn more on how to get started below:
 
-[CSS Club Website](https://jjaycss.tech/)
-
 ## How to Contribute to New Club Website Features
 If you'd like to get new features that you believe will enhance our Club's website, then the best way for this to happen is through creating a pull request. The following steps will only be able to be done if you have connected your systems terminal to your Github account.
 ### Create a Pull Request:
@@ -37,7 +35,7 @@ If you'd like to get new features that you believe will enhance our Club's websi
     - Now that you've committed the new changes to your new branch, push all these new changes to the Club's repository with the command `git push origin nameOfBranchYouAreWorkingOn`
     - Head over to the club's repository and you should now see a yellow warning of a pull request. Click it and insert all the necessary information
     - Make sure you be really specific as to what feature you just did. This way, Executives of the club will be able to quickly look over your pull request and code.
-5) Wait for a Club Executive to approve of your pull request. Any comments or concerns about your pull request will be inside of the pull request you created
+5) Wait for a club executive to approve of your pull request. Any comments or concerns about your pull request will be inside of the pull request you created.
 
 ### Open a New Discussion:
 If you have any new ideas, resources, features, questions related to the club website, or errors on the website that you would like to let us know, then click on the GREEN button "New Discussion".
