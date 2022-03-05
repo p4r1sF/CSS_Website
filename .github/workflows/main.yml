@@ -24,3 +24,5 @@ jobs:
       # Runs a single command using the runners shell
       - name: Auto Author Assign
         uses: toshimaru/auto-author-assign@v1.4.0
+        with:
+          repo-token: ${{ github.token }}
