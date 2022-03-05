@@ -48,15 +48,15 @@ If you have any new ideas, resources, features, questions related to the club we
 
 
 ## Club Socials
-- [CSS Club Website](https://jjaycss.tech/)
-- [Club Github](https://github.com/jjcss)
-- [Club Discord](https://discord.gg/fJZKErEnPa)
-- Club email: computersocjjay@gmail.com
-- [Club Instagram](https://www.instagram.com/jjccomputerscience/)
-- [Club LinkedIn](https://www.linkedin.com/in/cssclub/)
-- [Club Facebook](https://www.facebook.com/CSSJohnJay)
-- [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform)
-- [Club linktree](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fjjaycss&e=ATOSfCgT69PGdXXE-N6W4LYPCy3d8xTToAElzBm0BrXLhBQG0W5_Lt95y8SU2e3VZYnFmbpSshqcN40Lof-07w&s=1)
+🌐[Website](https://jjaycss.tech/) ◆ 
+🛠[Github](https://github.com/jjcss) ◆ 
+💬[Discord](https://discord.gg/fJZKErEnPa) ◆ 
+✉️[Email: computersocjjay@gmail.com](computersocjjay@gmail.com) ◆ 
+📷[Instagram](https://www.instagram.com/jjccomputerscience/) ◆ 
+🎙[LinkedIn](https://www.linkedin.com/in/cssclub/) ◆ 
+📋[Facebook](https://www.facebook.com/CSSJohnJay) ◆ 
+💌[Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform) ◆ 
+🌲[Linktree](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fjjaycss&e=ATOSfCgT69PGdXXE-N6W4LYPCy3d8xTToAElzBm0BrXLhBQG0W5_Lt95y8SU2e3VZYnFmbpSshqcN40Lof-07w&s=1)
 
 ## Contributors
 - Leandro Gamarra (President)
