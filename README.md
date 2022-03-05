@@ -15,7 +15,7 @@ Welcome to our <a href="https://jjaycss.tech/">Club's Official Website</a> Repos
 If you'd like to get new features that you believe will enhance our Club's website, then the best way for this to happen is through creating a pull request. The following steps will only be able to be done if you have connected your systems terminal to your Github account.
 ### Create a Pull Request:
 1) You will need to first clone this repository
-    - Click on the green "CODE" button on this repository.
+    - Click on the green "Code" button on this repository.
     - Under "SSH", copy the link that you see there. It should look like this `git@github.com:jjcss/CSS_Website.git`
     - Go to your terminal. Make sure you aren't in another folder.
     - Type in the command `git clone git@github.com:jjcss/CSS_Website.git`
