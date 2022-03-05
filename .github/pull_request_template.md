@@ -11,17 +11,17 @@
 
 ## Description
 
-<!-- Please do not leave this blank -->
+<!-- Please do not leave this blank. 
+Ex.: This PR [adds/removes/fixes/replaces] this [feature/bug/etc]. -->
 
-This PR [adds/removes/fixes/replaces] this [feature/bug/etc]. 
-
-<!--## Related Tickets & Documents
+## Related Tickets & Documents
+<!--
 Please use this format link issue numbers: Fixes #123
-https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
+See here: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
 -->
 
 ## Mobile & Desktop Screenshots/Recordings
-**Visual changes require screenshots**
+<!-- **Visual changes require screenshots** -->
 
 
 ## Added tests?
@@ -30,9 +30,9 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
 
-## Remarks, notes, any future suggestions
+## Remarks, notes, or any future suggestions?
 
-<!--
+
 ## Added to documentation?
 
 - [ ] 📜 readme
@@ -41,7 +41,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 
- ## [optional] Are there any post-deployment tasks we need to perform? 
+## [optional] Are there any post-deployment tasks we need to perform? 
 
-## [optional] What gif best describes this PR or how it makes you feel? -->
+## [optional] What gif best describes this PR or how it makes you feel?
 
