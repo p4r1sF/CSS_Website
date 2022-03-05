@@ -41,7 +41,7 @@ If you'd like to get new features that you believe will enhance our Club's websi
 If you have any new ideas, resources, features, questions related to the club website, or errors on the website that you would like to let us know, then click on the GREEN button "New Discussion".
 
 1) Head over to "Discussions" in this repository
-2) Select the appropriate categroy for your discussion.
+2) Select the appropriate category for your discussion.
 3) Write a detailed description of what you would like to say. Be as specific as possible.
 
 
