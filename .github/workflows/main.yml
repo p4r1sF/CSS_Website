@@ -6,7 +6,7 @@ name: Assign Users to PR
 on:
   # Triggers the workflow on pull request events
   pull_request_target:
-    types: [opened, reopened, synchronize]
+    types: [opened, reopened, synchronize, ready_for_review]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
